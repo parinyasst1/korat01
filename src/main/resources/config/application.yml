@@ -11,6 +11,6 @@ queue:
 #  interval-cron: '*/10 * * * * *'
   interval-cron: '*/10 * * * * *'
   weather-cron: '0 0 3 * * *'
-  weather-today-cron: '*/10 * * * * *'
+  weather-today-cron: '*/15 * * * * *'
   weather-3-hours-cron: '0 0 */1 * * *'
   enable: true
